@@ -75,5 +75,5 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
     copyright: "© 2025 - Patrick Status™️"
