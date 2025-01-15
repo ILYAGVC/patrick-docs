@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Patrick Status: Free Site Builder and Bot Builder
+  Patrick Status: Free Site Builder&nbsp;<br class="sm:hx-block hx-hidden" />and Bot Builder
 {{< /hextra/hero-headline >}}
 </div>
 
