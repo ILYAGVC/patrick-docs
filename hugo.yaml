@@ -56,8 +56,9 @@ languages:
     title: پاتریک اِستیتس
     weight: 2
 
-theme:
-  default: system
-  displayToggle: true
+params:
+  theme:
+    default: system
+    displayToggle: true
 
 copyright: "© 2025 - Patrick Status™️"
