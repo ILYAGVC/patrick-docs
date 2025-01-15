@@ -31,11 +31,6 @@ menu:
       weight: 4
       params:
         type: search
-    - name: Telegram
-      weight: 5
-      url: "https://t.me/Patrick_Status"
-      params:
-        icon: telegram
 
 params:
   navbar:
