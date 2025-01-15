@@ -56,7 +56,8 @@ languages:
     title: پاتریک اِستیتس
     weight: 2
 
-theme:
+params:
+  theme:
     default: system
     displayToggle: true
 
