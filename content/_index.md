@@ -11,7 +11,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Marzneshin: Modern&nbsp;<br class="sm:hx-block hx-hidden" />Multi-Core Proxy Manager
+  Patrick Status: Free Site Builder and Bot Builder
 {{< /hextra/hero-headline >}}
 </div>
 
