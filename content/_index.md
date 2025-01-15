@@ -1,5 +1,5 @@
 ---
-title: Patrick Status: Free Site Builder and Bot Builder
+title: Patrick Status - Free Site Builder and Bot Builder
 layout: hextra-home
 ---
 
