@@ -71,4 +71,9 @@ params:
       width: 50
       height: 50
 
-copyright: "© 2025 - Patrick Status™️"
+params:
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    copyright: "© 2025 - Patrick Status™️"
