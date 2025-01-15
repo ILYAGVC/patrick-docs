@@ -57,7 +57,7 @@ languages:
     weight: 2
 
 theme:
-    default: system
-    displayToggle: true
+  default: system
+  displayToggle: true
 
 copyright: "© 2025 - Patrick Status™️"
